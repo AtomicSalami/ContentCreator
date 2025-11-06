@@ -1,0 +1,13 @@
+# env files
+.env
+
+# files
+*.md
+*.txt
+*.json
+*.mp3
+*.mp4
+
+# directories
+#.*/
+.venv/
